@@ -9,4 +9,5 @@ printf("%d " , c);
 //Mrinmay is thebatman :D
 return 1;
 
+//aabra ka daabra
 }
